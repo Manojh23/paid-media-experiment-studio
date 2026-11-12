@@ -1,0 +1,10 @@
+.media-studio{display:grid;gap:16px;margin-top:14px}
+.media-intro{background:linear-gradient(120deg,#f4faf6,#fff)}
+.media-intro h2{margin-top:7px}
+.media-actions{display:flex;align-items:center;gap:10px;flex-wrap:wrap;margin-top:12px}
+.media-actions label{font-size:.83rem}
+.media-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(285px,1fr));gap:16px}
+.media-grid dt{font-weight:650;margin-top:10px}
+.media-grid dd{margin:4px 0;color:#315344}
+.media-history{list-style:none;padding:0}
+.media-history li{display:flex;gap:9px;align-items:center;margin:7px 0}

@@ -1,0 +1,7 @@
+channel,campaign,start_date,end_date,currency,goal,attribution_days,impressions,clicks,conversions,spend_cents
+Google Ads,Venue search,2026-10-05,2026-10-11,USD,event-inquiry,7,15000,540,34,51000
+Google Ads,Venue search,2026-10-12,2026-10-18,USD,event-inquiry,7,16000,590,41,53000
+Meta Ads,Waterfront prospecting,2026-10-05,2026-10-11,USD,event-inquiry,7,35000,560,28,56000
+Meta Ads,Waterfront prospecting,2026-10-12,2026-10-18,USD,event-inquiry,7,36000,350,16,59000
+Meta Ads,Retargeting pilot,2026-10-05,2026-10-11,USD,event-inquiry,7,4000,90,3,8500
+Meta Ads,Retargeting pilot,2026-10-12,2026-10-18,USD,event-inquiry,7,4500,88,4,8800
